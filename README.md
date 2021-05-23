@@ -11,6 +11,6 @@ At @w0lfd3n, we are a group of professionnal and amateurs hackers from Quebec, C
 
 <b>THANKS</b>
 ---
-Shoutout at @hmaverickadams for is very useful breachparse tool, which was used in the making of this list ->  ([breachparse tool](https://github.com/hmaverickadams/breach-parse))
+Shoutout at @hmaverickadams for his very useful breachparse tool, which was used in the making of this list ->  ([breachparse tool](https://github.com/hmaverickadams/breach-parse))
 
 
