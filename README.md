@@ -1,6 +1,5 @@
 # quebec_wordlist
 A useful wordlist made from French Canadian leaked passwords
-
 reseau07
 relations
 bretzel1
@@ -37,7 +36,6 @@ Alexandre11
 Mathieu
 mus
 muscat
-
 helena
 g6j1p1
 adam23
@@ -46,7 +44,6 @@ nouveaux
 spiro
 hiv
 hiver
-
 pagpou
 eg0uine
 217496875035252
