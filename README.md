@@ -1,11 +1,11 @@
 # quebec_wordlist
 A useful wordlist made from French Canadian leaked passwords
-reseau07
-relations
-bretzel1
-M3a3t3h3
-soleil1
-alpin10
+reseau07\
+relations\
+bretzel1\
+M3a3t3h3\
+soleil1\
+alpin10\
 gaJR6
 quebec
 etie98
