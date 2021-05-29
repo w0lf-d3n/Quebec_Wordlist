@@ -8,7 +8,7 @@ A useful wordlist made from French Canadian leaked passwords!
 ---
 ## GOAL
 
-At @w0lfd3n, we are a group of professionnal and amateurs infosec enthusiats from Quebec, Canada. 
+At @w0lfd3n, we are a group of professionnal and amateurs infosec people from Quebec, Canada. 
 This project was born from our desire to create the French Canadian equivalent of the "rockyou" wordlist, to be used with Hashcat or John The Ripper. 
 
 The wordlist is a mixture of public available repos and leaked passwords related to French Canadian domains ( please see the setion methodology for more infos).
