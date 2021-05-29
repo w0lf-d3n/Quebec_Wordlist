@@ -8,10 +8,12 @@ A useful wordlist made from French Canadian leaked passwords!
 ---
 ## GOAL
 
-At @w0lfd3n, we are a group of professionnal and amateurs infosec enthusiats from Quebec, Canada. 
-This project was born from our desire to create the French Canadian equivalent of the "rockyou" wordlist, to be used with Hashcat or John The Ripper. 
+At @w0lfd3n, we are a group of ethical hackers from Quebec, Canada. 
 
-The wordlist is a mixture of public available repos and leaked passwords related to French Canadian domains ( please see the setion methodology for more infos).
+This project was born from our desire to create the French Canadian equivalent of the "rockyou" wordlist, to be used with Hashcat, John The Ripper or your favorite tool. 
+Also, this wordlist aims to replace "Richelieu", as more focused on Quebecois passwords.   
+
+The final wordlist is a combination of public available repos and leaked passwords related to French Canadian domains ( please see the setion methodology for more infos).
 
 ---
 ## METHODOLOGY
@@ -24,12 +26,7 @@ By enumerating relevant domains and passwords, while eliminating duplicates, we 
 We plan to regurarly update the wordlist, as we find more proper data to add (contact us if you like to add your findings).
 
 ---
-### CONTACT US
-
-📧 Feel free to contact us at **hello@w0lfd3n.org** for questions or recommendations.
-
----
-## THANKS
+### THANKS
 
 Shoutout at @hmaverickadams for his very useful breachparse tool, which was used in the making of this list ->  ([breachparse tool](https://github.com/hmaverickadams/breach-parse))
 
@@ -40,6 +37,13 @@ Usage of the wordlist for attacking targets without prior mutual consent is ille
 
 W0lfd3n group assume no liability and are not responsible for any misuse or damage caused by using the wordlist.
 
-This project is released under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
+---
+### CONTACT US
+
+📧 Feel free to contact us at **hello@w0lfd3n.org** for questions or recommendations.
+
+
+
+
 
 🐺🐺🐺
