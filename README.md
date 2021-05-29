@@ -21,7 +21,7 @@ Our wordlist is based on multiple domains coming from Quebec private sector, pub
 
 By enumerating relevant domains and passwords, while eliminating duplicates, we obtained the list quebec.txt.
 
-We plan to update regurarly the wordlist, as we find more proper data to add.
+We plan to regurarly update the wordlist, as we find more proper data to add (contact us if you like to add your findings).
 
 ---
 ### CONTACT US
@@ -40,5 +40,6 @@ Usage of the wordlist for attacking targets without prior mutual consent is ille
 
 W0lfd3n group assume no liability and are not responsible for any misuse or damage caused by using the wordlist.
 
+This project is released under the [CC BY-SA 4.0 license](https://creativecommons.org/licenses/by-sa/4.0/).
 
 🐺🐺🐺
